@@ -10,6 +10,7 @@ function App() {
     <>
     <p className='text-blue-500'>hello</p>
     <p>chandru</p>
+    <p>praveen</p>
     </>
   )
 }
