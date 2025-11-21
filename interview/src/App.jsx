@@ -12,6 +12,7 @@ function App() {
     <p>chandru</p>
     <p>pravven</p>
     <p>kamesh</p>
+    <p>preeth</p>
     </>
   )
 }
